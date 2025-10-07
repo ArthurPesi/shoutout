@@ -82,7 +82,7 @@ Programming is pretty much manipulating data. So you should know data really wel
 
 [Practical Data Oriented Design by Andrew Kelley](https://www.youtube.com/watch?v=IroPQ150F6c) - Zig guy btw. Kind of like the previous one, but it's always good to have a different person explaining the same thing. Also real life examples.
 
-[*memory allocation strategies 1-6*](https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/) - Implementation of memory management systems with actual code! Also Odin guy btw.
+[memory allocation strategies 1-6 by Ginger Bill](https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/) - Implementation of memory management systems with actual code! Also Odin guy btw.
 
 [Enter the arena by Ryan Fleury](https://www.youtube.com/watch?v=TZ5a3gCCZYo) - There is also an article if you don't have headphones on. Helps you get into arenas as a mean of memory management. Not actual real life arenas.
 
@@ -92,7 +92,7 @@ Programming is pretty much manipulating data. So you should know data really wel
 
 [CS 361 Systems programming by Chris Kanich](https://www.youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP) - Video series on operating systems, programming tools and more.
 
-[Gaffer on Games](https://gafferongames.com/) - Straight forward articles on game dev, mostly focused on networks. A lot of code snippets and examples.
+[Gaffer on Games by Gleen Fiedler](https://gafferongames.com/) - Straight forward articles on game dev, mostly focused on networks. A lot of code snippets and examples.
 
 [Ginger Bill](https://www.gingerbill.org/article/) - Odin man himself.
 
