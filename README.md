@@ -38,6 +38,8 @@ Of utmost importance; job interview get employed; Fibonacci sequence; Made-up ca
 
 [The last algorithms course you'll need by Theprimeagen](https://frontendmasters.com/courses/algorithms/) - I don't know if it is the last course you'll need, but it's a good start. And for free.
 
+[Roadmap by NeetCode](https://neetcode.io/roadmap) - A good selection of problems that are relevant to job interviews (according to the roadmap guy). It's a good place to practice DSA. There are explanations on how to solve each problem. Very neat.
+
 [Algorithms by Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - The man. The goat. Just watch and learn. I recommend watching the previous course and complementing it with this playlist. Come back as you need. This is your new home. Welcome.
 
 ---
